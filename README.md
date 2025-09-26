@@ -4,7 +4,7 @@ Welcome to my academic portfolio for (put your course name and section here)!
  
 ## About Me
 - Name: Barbod Nejadi
-- Program: CEP 126
+- Program: CEP 146
 - Year: semester 1, 2025
 - Favorite Programming Language: c++
  
